@@ -1,0 +1,10 @@
+/*class criamos com .
+class criamo com .
+nÃO ESQUECER PONTO E VIRGULA .*/
+
+.box{
+  width:960px;
+  border : 1px dashed #000;
+  border-radius: 15px;
+  margin:0 auto;
+}
